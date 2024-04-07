@@ -1,5 +1,5 @@
-# RSA-Factoring-Challenge
 
-./factors <file>
 
-./rsa <file>
+Repo:
+
+ GitHub repository: RSA-Factoring-Challenge
